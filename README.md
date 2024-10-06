@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# TAILWIND CSS FOR PRODUCTION
+1. What is Postcss
+2. npm install postcss-cli tailwind autoprefixer --save-dev
+3. npm install init
+4. Configure Postcss and npm run start.
+5. For production npm install cross-env cssnano @fullhuman/postcss-purecss --save-dev
